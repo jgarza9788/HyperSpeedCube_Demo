@@ -1,6 +1,6 @@
 HyperSpeedCube
 -------------------------------------
-[Asset Store Link](http://u3d.as/XXX)  
+[Asset Store Link](http://u3d.as/HaD)  
 © 2017 Justin Garza
 
 PLEASE LEAVE A REVIEW OR RATE THE PACKAGE IF YOU FIND IT USEFUL!
